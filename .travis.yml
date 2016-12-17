@@ -1,0 +1,10 @@
+language: node_js
+node_js: 4
+branches:
+    only:
+        - master
+cache: yarn
+notifications:
+    email: false
+scripts:
+    - npm test
