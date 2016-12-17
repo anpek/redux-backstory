@@ -1,6 +1,7 @@
 # Redux  Backstory
+[![Travis](https://img.shields.io/travis/anpek/redux-backstory.svg)]()
 
-Redux backstory is a helper library for Redux to pre-initialise store. It has a simple API which will let your specify the list of action creators and the store you want to initialise.
+`redux-backstory` is a helper library for `redux` to pre-initialise store. It has a simple API which will let your specify the list of action creators and the store you want to initialise.
 
 ## Installation
 ```js
